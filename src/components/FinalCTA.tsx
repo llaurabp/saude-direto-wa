@@ -27,7 +27,7 @@ const FinalCTA = () => {
               pelo WhatsApp
             </h2>
             <p className="text-xl md:text-2xl opacity-90 leading-relaxed max-w-3xl mx-auto">
-              Sou Carlos Silva, seu corretor especializado. Vou encontrar o plano perfeito 
+              Sou Fátima Borges, seu corretor especializado. Vou encontrar o plano perfeito 
               para você em poucos minutos, com as melhores condições do mercado.
             </p>
           </div>

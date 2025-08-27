@@ -43,7 +43,7 @@ const OperadorasSection = () => {
   ];
 
   const handleWhatsAppClick = (operadora: string) => {
-    const message = `Olá Carlos! Tenho interesse em conhecer os planos da ${operadora}. Pode me ajudar?`;
+    const message = `Olá Fátima! Tenho interesse em conhecer os planos da ${operadora}. Pode me ajudar?`;
     window.open(`https://wa.me/5511999999999?text=${encodeURIComponent(message)}`, "_blank");
   };
 
@@ -139,7 +139,7 @@ const OperadorasSection = () => {
               className="mt-8 btn-hero"
             >
               <MessageCircle className="w-5 h-5 mr-2" />
-              Falar com Carlos Agora
+              Falar com Fátima Agora
             </Button>
           </div>
         </div>

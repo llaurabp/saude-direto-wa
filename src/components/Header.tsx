@@ -27,8 +27,8 @@ const Header = () => {
               <MessageCircle className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-primary">Carlos Silva</h1>
-              <p className="text-xs text-muted-foreground">Corretor de Planos de Saúde</p>
+              <h1 className="text-xl font-bold text-primary">Fátima Borges</h1>
+              <p className="text-xs text-muted-foreground">Corretora de Planos de Saúde</p>
             </div>
           </div>
 

@@ -18,7 +18,7 @@ const Footer = () => {
                   <MessageCircle className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold">Carlos Silva</h3>
+                  <h3 className="text-xl font-bold">Fátima Borges</h3>
                   <p className="text-sm opacity-80">Corretor de Planos de Saúde</p>
                 </div>
               </div>
@@ -77,7 +77,7 @@ const Footer = () => {
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-secondary flex-shrink-0" />
                   <div>
-                    <div className="text-background/80">carlos.silva@corretor.com</div>
+                    <div className="text-background/80">fborgespinto@hotmail.com</div>
                     <div className="text-sm opacity-60">Resposta em até 2h</div>
                   </div>
                 </div>
@@ -130,7 +130,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-background/80 text-sm">
-                © 2024 Carlos Silva - Corretor de Seguros. Todos os direitos reservados.
+                © 2024 Fátima Borges - Corretor de Seguros. Todos os direitos reservados.
               </p>
               <p className="text-background/60 text-xs mt-1">
                 SUSEP: 12345678901 | Registro CNSEG: 123456789
