@@ -28,7 +28,7 @@ const WhatsAppFloat = () => {
 
   const handleWhatsAppClick = () => {
     const message = "Olá! Vim através do site e gostaria de saber mais sobre os planos de saúde disponíveis.";
-    window.open(`https://wa.me/5511999999999?text=${encodeURIComponent(message)}`, "_blank");
+    window.open(`https://wa.me/5585988851762?text=${encodeURIComponent(message)}`, "_blank");
   };
 
   const handleCloseTooltip = () => {

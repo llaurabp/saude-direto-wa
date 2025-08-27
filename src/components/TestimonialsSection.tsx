@@ -179,7 +179,7 @@ const TestimonialsSection = () => {
             <div className="text-muted-foreground">Avaliação Média</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl font-bold text-primary mb-2">8 Anos</div>
+            <div className="text-4xl font-bold text-primary mb-2">15 Anos</div>
             <div className="text-muted-foreground">de Experiência</div>
           </div>
         </div>

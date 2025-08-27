@@ -5,7 +5,7 @@ const BenefitsSection = () => {
     {
       icon: Shield,
       title: "Consultoria Especializada",
-      description: "8 anos de experiência ajudando famílias a encontrar o plano ideal",
+      description: "15 anos de experiência ajudando famílias a encontrar o plano ideal",
       color: "text-primary"
     },
     {
@@ -92,7 +92,7 @@ const BenefitsSection = () => {
               Me conte sobre sua situação atual e vou te mostrar as melhores opções disponíveis.
             </p>
             <button
-              onClick={() => window.open("https://wa.me/5511999999999?text=Olá Fátima! Quero fazer uma análise gratuita do meu caso para encontrar o melhor plano de saúde.", "_blank")}
+              onClick={() => window.open("https://wa.me/5585988851762?text=Olá Fátima! Quero fazer uma análise gratuita do meu caso para encontrar o melhor plano de saúde.", "_blank")}
               className="bg-white text-primary font-semibold px-8 py-4 rounded-full hover:bg-gray-100 transition-all duration-300 hover:scale-105"
             >
               Falar com Fátima Borges

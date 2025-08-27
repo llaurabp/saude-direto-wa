@@ -2,7 +2,7 @@ import { MessageCircle, Phone, Mail, MapPin, Clock, Heart } from "lucide-react";
 
 const Footer = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de falar com um especialista.", "_blank");
+    window.open("https://wa.me/5585988851762?text=Olá! Gostaria de falar com um especialista.", "_blank");
   };
 
   return (
@@ -23,12 +23,12 @@ const Footer = () => {
                 </div>
               </div>
               <p className="text-background/80 leading-relaxed">
-                Corretor especializado com 8 anos de experiência. Represento as principais 
+                Corretora especializado com mais de 15 anos de experiência. Represento as principais 
                 operadoras do Brasil e ofereço consultoria personalizada e gratuita.
               </p>
               <div className="flex items-center space-x-2 text-sm">
                 <Heart className="w-4 h-4 text-red-400" />
-                <span className="opacity-80">Cuidando da sua saúde desde 2016</span>
+                <span className="opacity-80">Cuidando da sua saúde desde 2010</span>
               </div>
             </div>
 

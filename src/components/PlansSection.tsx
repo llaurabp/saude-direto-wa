@@ -61,7 +61,7 @@ const PlansSection = () => {
 
   const handleWhatsAppClick = (planType: string) => {
     const message = `Olá! Tenho interesse no plano ${planType}. Gostaria de receber mais informações e uma cotação personalizada.`;
-    window.open(`https://wa.me/5511999999999?text=${encodeURIComponent(message)}`, "_blank");
+    window.open(`https://wa.me/5585988851762?text=${encodeURIComponent(message)}`, "_blank");
   };
 
   return (

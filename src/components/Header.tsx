@@ -14,7 +14,7 @@ const Header = () => {
   ];
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre os planos de saúde.", "_blank");
+    window.open("https://wa.me/5585988851762?text=Olá! Gostaria de saber mais sobre os planos de saúde.", "_blank");
   };
 
   return (

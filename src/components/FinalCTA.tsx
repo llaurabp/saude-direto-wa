@@ -3,11 +3,11 @@ import { MessageCircle, Phone, Clock, Shield } from "lucide-react";
 
 const FinalCTA = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Quero falar com um corretor especializado agora mesmo.", "_blank");
+    window.open("https://wa.me/5585988851762?text=Olá! Quero falar com um corretor especializado agora mesmo.", "_blank");
   };
 
   const handlePhoneClick = () => {
-    window.open("tel:+5511999999999", "_self");
+    window.open("tel:+5585988851762", "_self");
   };
 
   return (

@@ -4,7 +4,7 @@ import heroImage from "@/assets/hero-family-health.jpg";
 
 const HeroSection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Quero solicitar uma cotação para plano de saúde.", "_blank");
+    window.open("https://wa.me/5585988851762?text=Olá! Quero solicitar uma cotação para plano de saúde.", "_blank");
   };
 
   return (
@@ -28,8 +28,8 @@ const HeroSection = () => {
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
-                Com mais de 8 anos de experiência, represento as principais operadoras do Brasil: 
-                <strong>Unimed, SulAmérica, Amil, Hapvida, Bradesco Saúde</strong> e muito mais. 
+                Com mais de 15 anos de experiência, represento as principais operadoras do Brasil: 
+                <strong>Unimed, SulAmérica, Amil, Hapvida, Bradesco Saúde, LivSaúde</strong> e muito mais. 
                 Atendimento personalizado e gratuito para encontrar o plano ideal para seu perfil.
               </p>
             </div>
@@ -77,7 +77,7 @@ const HeroSection = () => {
                 <div>Famílias Atendidas</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-secondary">8 Anos</div>
+                <div className="text-2xl font-bold text-secondary">15 Anos</div>
                 <div>de Experiência</div>
               </div>
               <div className="text-center">
