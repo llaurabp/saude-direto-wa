@@ -19,7 +19,7 @@ const Footer = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold">Fátima Borges</h3>
-                  <p className="text-sm opacity-80">Corretor de Planos de Saúde</p>
+                  <p className="text-sm opacity-80">Corretora de Planos de Saúde</p>
                 </div>
               </div>
               <p className="text-background/80 leading-relaxed">
@@ -130,7 +130,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-background/80 text-sm">
-                © 2024 Fátima Borges - Corretor de Seguros. Todos os direitos reservados.
+                © 2024 Fátima Borges - Corretora de Planos de Saúde. Todos os direitos reservados.
               </p>
               <p className="text-background/60 text-xs mt-1">
                 SUSEP: 12345678901 | Registro CNSEG: 123456789

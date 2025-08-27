@@ -59,7 +59,7 @@ const OperadorasSection = () => {
             do Brasil
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Como corretor credenciado, tenho acesso aos melhores planos e condições especiais 
+            Como corretora credenciada, tenho acesso aos melhores planos e condições especiais 
             das principais operadoras de saúde do país. Compare e escolha a melhor opção para você.
           </p>
         </div>

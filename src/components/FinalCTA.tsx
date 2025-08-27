@@ -3,7 +3,7 @@ import { MessageCircle, Phone, Clock, Shield } from "lucide-react";
 
 const FinalCTA = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5585988851762?text=Olá! Quero falar com um corretor especializado agora mesmo.", "_blank");
+    window.open("https://wa.me/5585988851762?text=Olá! Quero falar com uma corretora especializada agora mesmo.", "_blank");
   };
 
   const handlePhoneClick = () => {
@@ -27,7 +27,7 @@ const FinalCTA = () => {
               pelo WhatsApp
             </h2>
             <p className="text-xl md:text-2xl opacity-90 leading-relaxed max-w-3xl mx-auto">
-              Sou Fátima Borges, seu corretor especializado. Vou encontrar o plano perfeito 
+              Sou Fátima Borges, sua corretora especializada. Vou encontrar o plano perfeito 
               para você em poucos minutos, com as melhores condições do mercado.
             </p>
           </div>

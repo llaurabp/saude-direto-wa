@@ -51,7 +51,7 @@ const BenefitsSection = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Como corretor especializado, ofereço consultoria personalizada e acesso 
+            Como corretora especializada, ofereço consultoria personalizada e acesso 
             às melhores condições das principais operadoras do mercado.
           </p>
         </div>
