@@ -29,7 +29,7 @@ const HeroSection = () => {
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
                 Com mais de 15 anos de experiência, represento as principais operadoras do Brasil: 
-                <strong>Unimed, SulAmérica, Amil, Hapvida, Bradesco Saúde, LivSaúde</strong> e muito mais. 
+                <strong>Unimed, SulAmérica, Amil, Hapvida, Bradesco Saúde, Best Senior</strong> e muito mais. 
                 Atendimento personalizado e gratuito para encontrar o plano ideal para seu perfil.
               </p>
             </div>
