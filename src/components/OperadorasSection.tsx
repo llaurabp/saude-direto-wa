@@ -35,8 +35,8 @@ const OperadorasSection = () => {
       color: "text-red-700"
     },
     {
-      name: "Porto Seguro",
-      description: "Inovação e qualidade em seguros",
+      name: "Best Senior",
+      description: "Conforto para a melhor idade",
       benefits: ["Tecnologia digital", "Rede credenciada", "Suporte 24h"],
       color: "text-blue-800"
     }
