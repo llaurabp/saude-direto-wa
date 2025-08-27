@@ -20,7 +20,7 @@ const HeroSection = () => {
           <div className="text-center lg:text-left space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                <span className="text-foreground">Sou Carlos Silva e vou te ajudar a encontrar o</span>{" "}
+                <span className="text-foreground">Sou Fátima Borges e vou te ajudar a encontrar o</span>{" "}
                 <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                   plano de saúde perfeito
                 </span>{" "}
