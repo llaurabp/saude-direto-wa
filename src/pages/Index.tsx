@@ -39,7 +39,7 @@ const Index = () => {
         <OperadorasSection />
         <BenefitsSection />
         <PlansSection />
-        <TestimonialsSection />
+        {/* <TestimonialsSection /> */}
         <FinalCTA />
       </main>
       <Footer />

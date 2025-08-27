@@ -8,7 +8,7 @@ const PlansSection = () => {
       icon: User,
       title: "Individual",
       subtitle: "Perfeito para você",
-      price: "A partir de R$ 89",
+      price: "A partir de R$ 179,77",
       period: "/mês",
       features: [
         "Consultas médicas ilimitadas",
@@ -25,10 +25,10 @@ const PlansSection = () => {
       icon: Users,
       title: "Familiar",
       subtitle: "Para toda família",
-      price: "A partir de R$ 249",
-      period: "/mês",
+      // price: "A partir de R$ 249",
+      // period: "/mês",
       features: [
-        "Até 5 dependentes",
+        "Dependentes ilimitados",
         "Consultas médicas ilimitadas",
         "Exames completos inclusos",
         "Internações e cirurgias",
@@ -44,8 +44,8 @@ const PlansSection = () => {
       icon: Building,
       title: "Empresarial",
       subtitle: "Para sua empresa",
-      price: "A partir de R$ 79",
-      period: "/funcionário",
+      // price: "A partir de R$ 79",
+      // period: "/funcionário",
       features: [
         "Mínimo 3 vidas",
         "Descontos progressivos",

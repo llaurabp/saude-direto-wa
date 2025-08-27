@@ -99,7 +99,7 @@ const FinalCTA = () => {
                 <div className="text-sm opacity-90">Famílias Atendidas</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-yellow-300 mb-2">20+</div>
+                <div className="text-3xl font-bold text-yellow-300 mb-2">8+</div>
                 <div className="text-sm opacity-90">Operadoras Parceiras</div>
               </div>
               <div>

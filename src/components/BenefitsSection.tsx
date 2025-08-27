@@ -16,7 +16,7 @@ const BenefitsSection = () => {
     },
     {
       icon: Users,
-      title: "20+ Operadoras Parceiras",
+      title: "8+ Operadoras Parceiras",
       description: "Acesso às principais operadoras: Unimed, SulAmérica, Amil, Hapvida...",
       color: "text-primary"
     },
