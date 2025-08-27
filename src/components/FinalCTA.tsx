@@ -22,13 +22,13 @@ const FinalCTA = () => {
           {/* Main Heading */}
           <div className="mb-12">
             <h2 className="text-3xl md:text-5xl font-bold mb-6 leading-tight">
-              Fale agora com um{" "}
-              <span className="text-yellow-300">corretor especializado</span>{" "}
-              via WhatsApp
+              Fale comigo agora e encontre{" "}
+              <span className="text-yellow-300">seu plano ideal</span>{" "}
+              pelo WhatsApp
             </h2>
             <p className="text-xl md:text-2xl opacity-90 leading-relaxed max-w-3xl mx-auto">
-              Não perca mais tempo procurando sozinho. Nossos especialistas vão encontrar 
-              o plano perfeito para você em poucos minutos, sem custo algum.
+              Sou Carlos Silva, seu corretor especializado. Vou encontrar o plano perfeito 
+              para você em poucos minutos, com as melhores condições do mercado.
             </p>
           </div>
 
@@ -95,11 +95,11 @@ const FinalCTA = () => {
           <div className="bg-white/10 rounded-2xl p-6 backdrop-blur-sm">
             <div className="grid md:grid-cols-3 gap-6 text-center">
               <div>
-                <div className="text-3xl font-bold text-yellow-300 mb-2">500+</div>
+                <div className="text-3xl font-bold text-yellow-300 mb-2">800+</div>
                 <div className="text-sm opacity-90">Famílias Atendidas</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-yellow-300 mb-2">15+</div>
+                <div className="text-3xl font-bold text-yellow-300 mb-2">20+</div>
                 <div className="text-sm opacity-90">Operadoras Parceiras</div>
               </div>
               <div>

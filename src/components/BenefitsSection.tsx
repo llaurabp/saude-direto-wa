@@ -4,38 +4,38 @@ const BenefitsSection = () => {
   const benefits = [
     {
       icon: Shield,
-      title: "Cobertura Nacional",
-      description: "Atendimento em todo território nacional com ampla rede credenciada",
+      title: "Consultoria Especializada",
+      description: "8 anos de experiência ajudando famílias a encontrar o plano ideal",
       color: "text-primary"
     },
     {
       icon: Clock,
-      title: "Atendimento 24h",
-      description: "Suporte médico disponível 24 horas por dia, 7 dias por semana",
+      title: "Atendimento Personalizado",
+      description: "Analiso seu perfil e necessidades para indicar a melhor opção",
       color: "text-secondary"
     },
     {
       icon: Users,
-      title: "Planos Familiares",
-      description: "Opções especiais para toda a família com descontos exclusivos",
+      title: "20+ Operadoras Parceiras",
+      description: "Acesso às principais operadoras: Unimed, SulAmérica, Amil, Hapvida...",
       color: "text-primary"
     },
     {
       icon: MapPin,
-      title: "Rede Credenciada",
-      description: "Milhares de hospitais, clínicas e laboratórios credenciados",
+      title: "Condições Especiais",
+      description: "Preços exclusivos e condições diferenciadas que só corretores têm",
       color: "text-secondary"
     },
     {
       icon: Stethoscope,
-      title: "Especialidades Médicas",
-      description: "Acesso a todas as especialidades médicas e exames",
+      title: "Suporte Pós-Venda",
+      description: "Acompanho você mesmo após a contratação, sempre que precisar",
       color: "text-primary"
     },
     {
       icon: Heart,
-      title: "Cuidado Completo",
-      description: "Do básico ao complexo, cuidamos da sua saúde integralmente",
+      title: "Consultoria Gratuita",
+      description: "Todo meu trabalho de consultoria é 100% gratuito para você",
       color: "text-secondary"
     }
   ];
@@ -45,14 +45,14 @@ const BenefitsSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Por que escolher nossos{" "}
+            Vantagens de contratar{" "}
             <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              planos de saúde?
+              comigo seu plano
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Oferecemos as melhores opções do mercado com benefícios exclusivos 
-            para garantir o cuidado que você e sua família merecem.
+            Como corretor especializado, ofereço consultoria personalizada e acesso 
+            às melhores condições das principais operadoras do mercado.
           </p>
         </div>
 
@@ -86,16 +86,16 @@ const BenefitsSection = () => {
         <div className="text-center mt-16">
           <div className="bg-gradient-to-r from-primary to-secondary p-8 rounded-2xl text-white">
             <h3 className="text-2xl md:text-3xl font-bold mb-4">
-              Pronto para cuidar melhor da sua saúde?
+              Quer uma análise gratuita do seu caso?
             </h3>
             <p className="text-lg mb-6 opacity-90">
-              Fale conosco agora e descubra qual plano se adapta melhor às suas necessidades.
+              Me conte sobre sua situação atual e vou te mostrar as melhores opções disponíveis.
             </p>
             <button
-              onClick={() => window.open("https://wa.me/5511999999999?text=Olá! Quero conhecer os benefícios dos planos de saúde.", "_blank")}
+              onClick={() => window.open("https://wa.me/5511999999999?text=Olá Carlos! Quero fazer uma análise gratuita do meu caso para encontrar o melhor plano de saúde.", "_blank")}
               className="bg-white text-primary font-semibold px-8 py-4 rounded-full hover:bg-gray-100 transition-all duration-300 hover:scale-105"
             >
-              Falar com Especialista
+              Falar com Carlos Silva
             </button>
           </div>
         </div>

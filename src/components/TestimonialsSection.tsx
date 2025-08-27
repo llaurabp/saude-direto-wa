@@ -10,7 +10,7 @@ const TestimonialsSection = () => {
       name: "Maria Silva",
       role: "Mãe de família",
       location: "São Paulo, SP",
-      content: "Excelente atendimento! Consegui um plano familiar com ótimo custo-benefício. Minha família está protegida e eu tenho tranquilidade. O suporte é muito atencioso e sempre disponível para esclarecer dúvidas.",
+      content: "O Carlos foi excepcional! Me ajudou a migrar da Amil para a Unimed com um preço muito melhor e mantendo toda cobertura. Sempre disponível e muito atencioso. Recomendo de olhos fechados!",
       rating: 5,
       avatar: "M"
     },
@@ -18,7 +18,7 @@ const TestimonialsSection = () => {
       name: "João Santos",
       role: "Empresário",  
       location: "Rio de Janeiro, RJ",
-      content: "Como empresário, precisava de um plano que oferecesse flexibilidade e qualidade. Encontrei exatamente o que buscava. A assessoria foi fundamental para escolher a melhor opção para minha empresa.",
+      content: "Precisava de um plano empresarial e o Carlos conseguiu uma condição incrível na SulAmérica. O suporte dele foi fundamental, explicou tudo nos mínimos detalhes. Profissional top!",
       rating: 5,
       avatar: "J"
     },
@@ -26,23 +26,23 @@ const TestimonialsSection = () => {
       name: "Ana Costa",
       role: "Profissional Liberal",
       location: "Belo Horizonte, MG", 
-      content: "Depois de muito procurar, finalmente encontrei um plano individual que cabe no meu orçamento sem abrir mão da qualidade. O processo foi rápido e transparente do início ao fim.",
+      content: "Estava perdida entre tantas opções e o Carlos simplificou tudo. Me mostrou 3 alternativas na minha faixa de preço e escolhi a Hapvida. Processo super rápido e transparente!",
       rating: 5,
       avatar: "A"
     },
     {
-      name: "Carlos Oliveira",
+      name: "Roberto Lima",
       role: "Aposentado",
       location: "Brasília, DF",
-      content: "Na minha idade, ter um bom plano de saúde é essencial. O atendimento foi personalizado e encontraram opções específicas para minhas necessidades. Recomendo para todos!",
+      content: "Na minha idade, é difícil encontrar plano bom e barato. O Carlos conseguiu um da Porto Seguro perfeito para mim. Muito grato pelo cuidado e paciência que teve comigo.",
       rating: 5,
-      avatar: "C"
+      avatar: "R"
     },
     {
-      name: "Fernanda Lima",
+      name: "Fernanda Oliveira",
       role: "Professora",
       location: "Curitiba, PR",
-      content: "O que mais me impressionou foi a agilidade e transparência no processo. Em poucos dias consegui migrar para um plano muito melhor e com mensalidade mais baixa. Excelente trabalho!",
+      content: "Mudei de cidade e precisava trocar de plano. O Carlos me atendeu até no domingo! Conseguiu transferir tudo sem carência. Esse é o diferencial de um corretor dedicado.",
       rating: 5,
       avatar: "F"
     }
@@ -82,14 +82,14 @@ const TestimonialsSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            O que nossos{" "}
+            O que meus{" "}
             <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               clientes dizem
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Mais de 500 famílias já confiaram em nosso trabalho. 
-            Veja os depoimentos de quem já encontrou o plano ideal.
+            Mais de 800 famílias já confiaram no meu trabalho. 
+            Veja os depoimentos de quem já encontrou o plano ideal comigo.
           </p>
         </div>
 
@@ -171,15 +171,15 @@ const TestimonialsSection = () => {
         {/* Statistics */}
         <div className="grid md:grid-cols-3 gap-8 mt-16">
           <div className="text-center">
-            <div className="text-4xl font-bold text-primary mb-2">500+</div>
-            <div className="text-muted-foreground">Clientes Satisfeitos</div>
+            <div className="text-4xl font-bold text-primary mb-2">800+</div>
+            <div className="text-muted-foreground">Clientes Atendidos</div>
           </div>
           <div className="text-center">
             <div className="text-4xl font-bold text-secondary mb-2">4.9/5</div>
             <div className="text-muted-foreground">Avaliação Média</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl font-bold text-primary mb-2">5 Anos</div>
+            <div className="text-4xl font-bold text-primary mb-2">8 Anos</div>
             <div className="text-muted-foreground">de Experiência</div>
           </div>
         </div>

@@ -20,17 +20,17 @@ const HeroSection = () => {
           <div className="text-center lg:text-left space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                <span className="text-foreground">Encontre o</span>{" "}
+                <span className="text-foreground">Sou Carlos Silva e vou te ajudar a encontrar o</span>{" "}
                 <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                  plano de saúde ideal
+                  plano de saúde perfeito
                 </span>{" "}
-                <span className="text-foreground">para você e sua família</span>
+                <span className="text-foreground">para sua família</span>
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
-                Tenha acesso aos melhores planos de saúde do mercado com cobertura nacional, 
-                atendimento 24h e valores que cabem no seu orçamento. Consultoria especializada 
-                e gratuita.
+                Com mais de 8 anos de experiência, represento as principais operadoras do Brasil: 
+                <strong>Unimed, SulAmérica, Amil, Hapvida, Bradesco Saúde</strong> e muito mais. 
+                Atendimento personalizado e gratuito para encontrar o plano ideal para seu perfil.
               </p>
             </div>
 
@@ -73,16 +73,16 @@ const HeroSection = () => {
             {/* Trust Indicators */}
             <div className="flex items-center justify-center lg:justify-start space-x-8 text-sm text-muted-foreground">
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary">500+</div>
+                <div className="text-2xl font-bold text-primary">800+</div>
                 <div>Famílias Atendidas</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-secondary">15+</div>
-                <div>Operadoras Parceiras</div>
+                <div className="text-2xl font-bold text-secondary">8 Anos</div>
+                <div>de Experiência</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary">24h</div>
-                <div>Suporte Especializado</div>
+                <div className="text-2xl font-bold text-primary">20+</div>
+                <div>Operadoras Parceiras</div>
               </div>
             </div>
           </div>

@@ -7,6 +7,7 @@ const Header = () => {
 
   const navigation = [
     { name: "Planos", href: "#planos" },
+    { name: "Operadoras", href: "#operadoras" },
     { name: "Benefícios", href: "#beneficios" },
     { name: "Depoimentos", href: "#depoimentos" },
     { name: "Contato", href: "#contato" },
@@ -26,8 +27,8 @@ const Header = () => {
               <MessageCircle className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-primary">SaúdeDireto</h1>
-              <p className="text-xs text-muted-foreground">Corretora de Planos</p>
+              <h1 className="text-xl font-bold text-primary">Carlos Silva</h1>
+              <p className="text-xs text-muted-foreground">Corretor de Planos de Saúde</p>
             </div>
           </div>
 
