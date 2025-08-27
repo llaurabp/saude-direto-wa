@@ -1,4 +1,4 @@
-import { MessageCircle, Phone, Mail, MapPin, Clock, Heart } from "lucide-react";
+import { MessageCircle, Phone, Mail, MapPin, Clock, Heart, Instagram } from "lucide-react";
 
 const Footer = () => {
   const handleWhatsAppClick = () => {
@@ -69,7 +69,7 @@ const Footer = () => {
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-primary flex-shrink-0" />
                   <div>
-                    <div className="text-background/80">(11) 99999-9999</div>
+                    <div className="text-background/80">(85) 98885-1762</div>
                     <div className="text-sm opacity-60">Segunda a Sexta</div>
                   </div>
                 </div>
@@ -81,11 +81,19 @@ const Footer = () => {
                     <div className="text-sm opacity-60">Resposta em até 2h</div>
                   </div>
                 </div>
-                
+
+                     <div className="flex items-center space-x-3">
+                  <Instagram className="w-5 h-5 text-secondary flex-shrink-0" />
+                  <div>
+                    <div className="text-background/80">fborgesplanosaude</div>
+                    <div className="text-sm opacity-60">Acompanhe as promoções diariamente</div>
+                  </div>
+                </div>
+
                 <div className="flex items-center space-x-3">
                   <MapPin className="w-5 h-5 text-primary flex-shrink-0" />
                   <div>
-                    <div className="text-background/80">São Paulo, SP</div>
+                    <div className="text-background/80">Fortaleza, CE</div>
                     <div className="text-sm opacity-60">Atendimento Online</div>
                   </div>
                 </div>
@@ -132,9 +140,9 @@ const Footer = () => {
               <p className="text-background/80 text-sm">
                 © 2024 Fátima Borges - Corretora de Planos de Saúde. Todos os direitos reservados.
               </p>
-              <p className="text-background/60 text-xs mt-1">
+              {/* <p className="text-background/60 text-xs mt-1">
                 SUSEP: 12345678901 | Registro CNSEG: 123456789
-              </p>
+              </p> */}
             </div>
             
             <div className="flex items-center space-x-6 text-sm text-background/60">
